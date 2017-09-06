@@ -1,0 +1,16 @@
+* {
+
+}
+
+#canvas {
+  height: 200px;
+  width: 200px;
+  background-color: grey;
+}
+
+.pixel {
+  float: left;
+  height: 20px;
+  width: 20px;
+  background-color:black;
+}
